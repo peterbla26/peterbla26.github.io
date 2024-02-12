@@ -2,6 +2,6 @@
 
 My first website
 
-My favorite sports team is the [Los Angeles Chargers](https://www.chargers.com/)
+My favorite sports team is the [Los Angeles Chargers](https://www.chargers.com/).
 
-Here are some favorites: [ice cream](recs.md)
+Here is my culture recommendation: [My Culture Rec](cultural_rec.md)
